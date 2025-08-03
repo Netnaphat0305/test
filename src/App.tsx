@@ -1,9 +1,9 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Home from "./pages/Home/Home";
-import JobPost from "./pages/JopPost/JobPost";
-import Board from "./pages/Board/Board";
+import Home from "./pages/Home/Home"
+import JobPost from "./pages/JobPost/JobPost";
+import Board from './pages/Board/Board';
 import JobDetail from "./pages/Board/JobDetail";
 
 

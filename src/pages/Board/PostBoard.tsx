@@ -5,6 +5,7 @@ import lahui from "../../assets/lahui.svg";
 import { useNavigate } from "react-router-dom";
 import PageHeader from "../../components/PageHeader"; // <<< นำเข้ามาใช้
 
+
 const PostBoard: React.FC = () => {
   const navigate = useNavigate();
 
