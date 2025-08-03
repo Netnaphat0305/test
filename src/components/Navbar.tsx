@@ -4,7 +4,7 @@ import { AppstoreOutlined } from "@ant-design/icons";
 import type { MenuProps } from "antd";
 import { Menu, Dropdown, Button } from "antd";
 import "./navbar.css";
-
+import logo from "../assets/logo.svg";
 
 //link
 const menuItems: MenuProps["items"] = [
